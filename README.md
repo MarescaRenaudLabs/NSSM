@@ -53,3 +53,6 @@ All functions are documented and help can be viewed using e.g.:
 ```
 help nssm.recon.reconDAS
 ``` 
+
+## License
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
