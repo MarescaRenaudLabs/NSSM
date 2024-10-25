@@ -1,4 +1,6 @@
-**Data available at** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13988116.svg)](https://doi.org/10.5281/zenodo.13988116)
+**Data available at**
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13988116.svg)](https://doi.org/10.5281/zenodo.13988116)
 
 # NSSM
 
