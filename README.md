@@ -1,6 +1,7 @@
-**Data available at**
+**Data and code available at**
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13988116.svg)](https://doi.org/10.5281/zenodo.13988116)
+![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
 
 # NSSM
 
@@ -59,4 +60,5 @@ help nssm.recon.reconDAS
 ``` 
 
 ## License
-[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+This project is licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) License. See the LICENSE file for details.
+
