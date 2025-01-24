@@ -19,9 +19,16 @@ script `MSSM_Sequence_Postprocess.m`. This will reconstruct all acquired sound
 sheets, and compound the two arrays. 
 
 ## Example Data
-Two example datasets are available on Zenodo:
-10.5281/zenodo.13988116. Download the `.mat` files
+Example datasets are available on Zenodo:
+[10.5281/zenodo.13988116](10.5281/zenodo.13988116). Download the `.mat` files
 from Zenodo and store them in the `data` folder. 
+
+| File                              | Content                                                                                                                                      |
+| --------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| `RFData_planes_figure_2E.mat`     | RF data of two orthogonal sound sheets imaging GV Wells with E. Coli. Process with `demo_reconstruct_orthogonal_NSSM_images.m`.              |
+| `beamformed_volume_figure_2E.mat` | Reconstructed 3D images of GV Wells with E. Coli. View with `demo_navigate_3D_NSSM_data.m`.                                                  |
+| `RFData_planes_figure_3B.mat`     | RF data of two orthogonal sound sheets imaging mARG expression in orthopic tumors. Process with `demo_reconstruct_orthogonal_NSSM_images.m`. |
+| `beamformed_volume_figure_3B.mat` | Reconstructed 3D images of mARG expression in orthopic tumors. View with `demo_navigate_3D_NSSM_data.m`.                                     |
 
 
 ### Wells with E. Coli 
@@ -31,8 +38,7 @@ reconstruct two orthogonal sound sheets, in SSM and NSSM mode. The file
 `demo_reconstruct_orthogonal_NSSM_images.m` shows how to reconstruct the sound sheet data. 
 
 The file `beamformed_volume_figure_2E.mat` contains beamformed SSM and NSSM
-volumes as displayed in figure 2G. The file `demo_navigate_3D_NSSM_data.m` can
-be used to view the volumes. 
+volumes as displayed in figure 2G. Use `demo_navigate_3D_NSSM_data.m` to view the volumes. 
 
 ### mARG expression in orthopic tumors 
 Representative dataset for paper figure 3B. The file
@@ -41,8 +47,7 @@ reconstruct two orthogonal sound sheets, in SSM and NSSM mode. The file
 `demo_reconstruct_orthogonal_NSSM_images.m` shows how to reconstruct the sound sheet data. 
 
 The file `beamformed_volume_figure_3B.mat` contains beamformed SSM and NSSM
-volumes as displayed in figure 3C. The file `demo_navigate_3D_NSSM_data.m` can
-be used to view the volumes. 
+volumes as displayed in figure 3C. Use `demo_navigate_3D_NSSM_data.m` to view the volumes. 
 
 ## `nssm` code package
 
