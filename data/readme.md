@@ -1,4 +1,6 @@
-Two example datasets are available on Zenodo: 10.5281/zenodo.13988116 
+**Data and code available at**
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14740878.svg)](https://doi.org/10.5281/zenodo.14740878)
 
 Download the `.mat` files, and store them in this folder.
 
