@@ -1,6 +1,6 @@
 **Data and code available at**
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14740878.svg)](https://doi.org/10.5281/zenodo.14740878)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13988115.svg)](https://doi.org/10.5281/zenodo.13988115)
 
 Download the `.mat` files, and store them in this folder.
 
